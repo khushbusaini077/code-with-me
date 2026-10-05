@@ -1,3 +1,4 @@
+//Leetcode problem 728 selfDividing number// 
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
@@ -37,6 +38,7 @@ int main(){
     for(int x : ans){
         cout << x << " ";
     }
+
 
     return 0;
 }
