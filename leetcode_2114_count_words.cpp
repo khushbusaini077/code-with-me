@@ -1,4 +1,4 @@
-//Leetcode problem 2114 to count the maximum length  of words
+//Leetcode problem 2114 to count the maximum length of words
 #include<bits/stdc++.h>
 using namespace std;
 
