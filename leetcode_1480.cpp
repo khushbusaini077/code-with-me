@@ -1,3 +1,4 @@
+//running sum problem of leetcode
 #include <bits/stdc++.h>
 using namespace std;
 

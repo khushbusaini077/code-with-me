@@ -1,3 +1,4 @@
+//To find the max sub array from a given array
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
